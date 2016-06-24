@@ -1,2 +1,2 @@
 # hello-word
-edited by Marc
+edited by Marc Lesur
